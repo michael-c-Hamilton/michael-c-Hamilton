@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @michael-c-Hamilton
+- 👋 Hi, I’m Michael Hamilton
 - 👀 I’m interested in Salesforce and Web Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning full stack development thru Codecademy
+- 💞️ I’m looking to collaborate on JavaScript, HTML & CSS and other web technologies
 - 📫 How to reach me ...
 
 <!---
